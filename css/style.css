@@ -1,0 +1,101 @@
+/* COMENTARIOS */
+
+/*
+body {
+  padding-top: 70px;
+}
+*/
+.cursiva{
+	font-family: 'Vibur', cursive;
+}
+
+.mogra{
+	font-family: 'Mogra', cursive;
+}
+
+.columna-border{
+    border: 1px solid #ccc;
+    margin-top: 10px;
+}
+
+.verde{
+	background-color: green;
+}
+
+.rojo{
+	background-color: red;
+}
+
+.hijo1{
+	background-color: gray;
+}
+
+.hijo2{
+	background-color: blue;
+}
+
+.azul{
+	background-color: #16193B;
+}
+
+.azul-2{
+	background-color: #35478C;
+}
+
+.blanco{
+	color: #ffffff;
+}
+
+.parrafo-blanco{
+	color:#ffffff;
+	font-size: 18px;
+}
+
+.largo{
+	height: 300px;
+}
+
+.alto-50{
+	height: 50px;
+}
+
+.fondo-blanco{
+	background-color: #fff;
+}
+
+/*
+.azul-degradado{
+	background-color: rgba(22, 25, 59, 0.5);
+}
+
+*/
+
+
+.fondo-imagen{
+	background-color: #000;
+	background-image: url('../img/bg.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.abajo-20{
+	margin-bottom: 20px;
+}
+
+.columna-imagen{
+	background-color: yellow;
+	background-image: url('../img/bg.jpg');
+	background-size: cover;
+}
+
+.azul-transparente{
+	background-color: rgba(255,0,0,0.4);
+}
+
+.imagen{
+	background-color: #ccc;
+	background-image: url('../img/world.png');
+	background-size: cover;
+	color: #000000;
+}
